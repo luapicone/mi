@@ -166,3 +166,68 @@ Este caso es crucial porque muestra en acto el determinismo psíquico. El olvido
 El caso Signorelli también es central porque muestra el método psicoanalítico en funcionamiento. No se trata de imponer una explicación externa, sino de seguir las asociaciones del sujeto. A través de ellas se revela que lo inconsciente interviene incluso en fenómenos cotidianos aparentemente insignificantes. Esto amplía enormemente el campo clínico: no solo los grandes síntomas son significativos, también lo son los olvidos, lapsus y actos fallidos.
 
 En síntesis, este texto demuestra de manera ejemplar cómo opera el inconsciente en la vida cotidiana y cómo la asociación libre y la interpretación permiten reconstruir el sentido oculto de un fenómeno banal. Por eso constituye un referente clínico privilegiado para trabajar el concepto de inconsciente y su relación con el determinismo psíquico.
+
+## Clase 4
+### La interpretación de los sueños, capítulo 6, Introducción al trabajo del sueño
+En la introducción al capítulo 6 de *La interpretación de los sueños*, Freud presenta una de las operaciones más decisivas de toda su teoría: la distinción entre contenido manifiesto del sueño y pensamientos oníricos latentes. Esta diferencia es central porque permite entender que el sueño no debe ser leído de manera directa ni literal. Lo que el soñante recuerda al despertar, es decir, el relato del sueño tal como aparece, constituye el contenido manifiesto. Sin embargo, ese contenido es el resultado de una serie de transformaciones. Detrás de él se encuentran los pensamientos oníricos latentes, que son las ideas, deseos, recuerdos y cadenas asociativas que dieron lugar al sueño.
+
+El concepto de trabajo del sueño designa precisamente ese conjunto de operaciones por las cuales los pensamientos latentes se transforman en contenido manifiesto. Freud insiste en que el sueño no es un mensaje transparente. Para comprenderlo hay que reconstruir el trabajo que produjo la deformación. Esto es esencial porque muestra que la interpretación no consiste en aplicar un simbolismo universal rígido, sino en desandar las operaciones que el sueño realizó.
+
+Entre esas operaciones, dos son centrales: la condensación y el desplazamiento. La condensación implica que múltiples pensamientos latentes se reúnen en un mismo elemento manifiesto. Un personaje del sueño puede condensar rasgos de varias personas; una imagen puede concentrar sentidos distintos. Esto explica por qué el contenido manifiesto suele ser más breve y más pobre que la riqueza de los pensamientos latentes. El sueño economiza, superpone y concentra.
+
+El desplazamiento, por su parte, implica un corrimiento del valor psíquico. Lo importante en los pensamientos latentes puede aparecer en el sueño como un detalle secundario, mientras que algo aparentemente trivial puede ocupar el centro de la escena. Gracias a este mecanismo, el deseo latente queda disfrazado. La intensidad afectiva se desplaza de una representación a otra, produciendo la desfiguración onírica.
+
+Freud también muestra que el sueño se sirve de la figurabilidad. Los pensamientos deben volverse imágenes o escenas, es decir, deben adaptarse a las condiciones de representación propias del sueño. No todo pensamiento abstracto puede aparecer tal cual; debe traducirse en escenas visuales, dramáticas o narrativas. Esto da cuenta del carácter plástico del sueño.
+
+Además, el trabajo del sueño debe entenderse en relación con el inconsciente y su legalidad. El sueño no inventa arbitrariamente; trabaja según las leyes del proceso primario. Por eso es una de las formaciones del inconsciente por excelencia. A través del sueño se revelan la condensación, el desplazamiento, la movilidad de las investiduras y el predominio del principio de placer. El sueño es, en este sentido, una vía regia al inconsciente.
+
+Otro punto importante de este capítulo es que la interpretación sólo puede avanzar mediante la asociación libre del soñante. Freud deja claro que el sueño no debe interpretarse desde afuera de manera cerrada. El analista no impone un sentido; sigue las asociaciones del sujeto. Por eso el trabajo del sueño se articula con el método de la asociación libre. El contenido manifiesto funciona como punto de partida para reconstruir las cadenas latentes.
+
+Freud también introduce la cuestión del ombligo del sueño, es decir, el punto en el que toda interpretación encuentra un límite. Aunque un sueño sea interpretable en gran medida, siempre queda un núcleo no resuelto, un punto de máxima condensación que conecta con lo no agotable del inconsciente. Esta idea es fundamental porque impide pensar la interpretación como desciframiento total. Siempre hay un resto, un límite de lo interpretable.
+
+En síntesis, este texto es esencial porque formaliza el concepto de trabajo del sueño y permite comprender que el sueño no es un contenido directo, sino una formación producida por operaciones específicas del inconsciente. Condensación, desplazamiento, figurabilidad y desfiguración aparecen aquí como claves para leer el sueño como formación del inconsciente.
+
+### La interpretación de los sueños, capítulo 7, punto A: el olvido de los sueños
+En este apartado, Freud aborda un problema fundamental: por qué los sueños suelen olvidarse tan fácilmente y cuál es el sentido de ese olvido. Lejos de considerarlo un accidente sin importancia, lo inscribe dentro de la lógica misma de la represión y de la resistencia. El olvido de los sueños no es una falla meramente casual de la memoria, sino un fenómeno que debe ser comprendido dentro del funcionamiento del aparato psíquico.
+
+Freud señala que el sueño, al despertar, queda sometido a una serie de transformaciones. La conciencia vigilante tiende a rechazar, modificar o debilitar el contenido onírico. Esto ocurre porque el sueño está vinculado a pensamientos latentes que suelen resultar conflictivos o incompatibles con la conciencia. Por lo tanto, el olvido aparece como continuación de la defensa. Lo mismo que hizo posible la deformación onírica colabora luego en el olvido del sueño.
+
+El texto también permite ver la relación entre sueño, recuerdo e interpretación. Aunque el soñante diga que no recuerda nada o recuerde muy poco, Freud insiste en que incluso fragmentos mínimos pueden ser suficientes para iniciar la asociación. El olvido nunca es total en un sentido absoluto; más bien indica la presencia de una resistencia. Esta idea es esencial para la técnica analítica, porque enseña que el analista debe trabajar incluso con restos mínimos del sueño.
+
+Además, Freud subraya que la aparente banalidad o insignificancia del sueño recordado puede ser también un efecto de la deformación. Lo que llega a la conciencia al despertar no es un acceso directo a lo inconsciente, sino un material ya alterado. Por eso el olvido no invalida la interpretación, sino que se convierte en un dato clínico adicional sobre el conflicto y la resistencia.
+
+En síntesis, este apartado es importante porque muestra que el olvido de los sueños forma parte de la misma lógica defensiva que estructura su deformación. El sueño no solo se fabrica de manera desfigurada, sino que luego encuentra obstáculos para ser recordado, lo cual refuerza la relación entre sueño, represión y resistencia.
+
+### Conferencia 7: contenido manifiesto del sueño y pensamientos oníricos latentes
+En la séptima conferencia de las *Conferencias de Introducción al psicoanálisis*, Freud retoma de forma pedagógica la distinción entre contenido manifiesto y pensamientos latentes. El valor de esta conferencia reside en que traduce en un lenguaje más claro para la enseñanza lo que ya había elaborado en *La interpretación de los sueños*. Freud insiste en que el relato del sueño no debe confundirse con su sentido. El contenido manifiesto es lo que el sujeto recuerda; los pensamientos latentes son las ideas que el análisis permite reconstruir.
+
+Freud muestra que entre ambos no hay una relación directa y obvia, sino una mediación compleja. El sueño manifiesto es una versión deformada, condensada y desplazada de los pensamientos latentes. Esta deformación no es accidental, sino necesaria para el cumplimiento disfrazado de un deseo reprimido. Por eso la interpretación del sueño es comparable a una traducción: se trata de reconstruir el texto oculto a partir del texto visible.
+
+Esta conferencia es muy útil porque subraya el método: solo mediante la asociación libre se pueden seguir las cadenas que conducen desde el contenido manifiesto hasta los pensamientos latentes. Freud se opone así a las interpretaciones prefabricadas o a los diccionarios de símbolos. Lo decisivo es la producción singular del soñante.
+
+En síntesis, esta conferencia refuerza la idea de que el sueño sólo puede ser entendido si se distingue entre lo manifiesto y lo latente y si se trabaja interpretativamente sobre esa diferencia.
+
+### Conferencia 11: el trabajo del sueño
+En la undécima conferencia, Freud desarrolla de forma más sistemática las operaciones del trabajo del sueño. Reaparecen aquí la condensación, el desplazamiento, la consideración por la figurabilidad y la elaboración secundaria. La condensación explica por qué el sueño es breve en relación con la riqueza de los pensamientos latentes. El desplazamiento explica la redistribución del valor psíquico. La figurabilidad muestra por qué los pensamientos deben transformarse en imágenes. La elaboración secundaria interviene para dar al sueño un aspecto más coherente cuando el sujeto lo relata al despertar.
+
+Freud destaca que el trabajo del sueño no es trabajo creador en sentido literario, sino transformación regida por la legalidad del inconsciente. El sueño desfigura para poder cumplir un deseo sin despertar al soñante. En este punto se vincula con el dormir: el sueño protege el dormir al ofrecer una satisfacción alucinatoria parcial de un deseo que, de otro modo, podría perturbar el reposo.
+
+En síntesis, esta conferencia resulta central para fijar con claridad las operaciones del trabajo del sueño y la relación entre deformación onírica e inconsciente.
+
+### Conferencia 14: el cumplimiento del deseo
+En la conferencia 14, Freud insiste en una de sus tesis más conocidas: el sueño es, en esencia, un cumplimiento de deseo. Esta afirmación no significa que todo sueño sea agradable o placentero en apariencia. Incluso los sueños penosos, angustiosos o de castigo deben ser pensados a partir de la lógica del deseo, aunque ese deseo se presente deformado, reprimido o incluso invertido.
+
+Freud muestra que el deseo no siempre pertenece al yo consciente. Con frecuencia se trata de deseos reprimidos, infantiles o inconciliables, que sólo pueden expresarse bajo forma disfrazada. Esto explica por qué el sueño necesita del trabajo onírico. Si el deseo apareciera directamente, el soñante se despertaría. La deformación onírica cumple entonces una función protectora.
+
+La tesis del sueño como cumplimiento de deseo se articula también con el servicio del dormir. El sueño preserva el reposo porque ofrece una satisfacción sustitutiva al deseo y porque tramita, de manera particular, los estímulos perturbadores. Un ruido externo, una sensación corporal o una excitación interna pueden incorporarse al sueño y recibir allí una elaboración que permita continuar durmiendo. De esta manera Freud articula deseo, dormir y estímulo perturbador.
+
+En síntesis, esta conferencia es clave porque consolida la idea del sueño como cumplimiento de deseo y muestra que incluso los sueños displacenteros deben ser comprendidos desde esa lógica, mediada por la represión y la deformación.
+
+### El sueño del teatro
+El llamado sueño del teatro funciona como referente clínico para trabajar la interpretación de los sueños y, especialmente, la lógica del deseo. Freud utiliza este ejemplo para mostrar que el contenido manifiesto puede presentar una escena aparentemente simple, mientras que el análisis revela una red compleja de pensamientos latentes y deseos infantiles. El teatro aparece como escena donde se ponen en juego rivalidades, deseos de ver, de estar presente, de no quedar excluido y de obtener una satisfacción en relación con el Otro.
+
+Este tipo de sueño resulta útil para mostrar cómo se articulan condensación y desplazamiento. Elementos de distintas series asociativas convergen en una escena única y adquieren nuevo valor en la figuración onírica. También permite ejemplificar la importancia de la asociación libre: sin las asociaciones del soñante, el analista no puede reconstruir correctamente el sentido.
+
+Además, el sueño del teatro permite pensar el límite de la interpretación. Aun cuando el análisis logre esclarecer gran parte del material, siempre queda un resto. Este resto remite al ombligo del sueño, al punto en que las asociaciones se abren hacia una trama más amplia que no se deja cerrar completamente.
+
+En síntesis, este referente clínico muestra de forma concreta cómo se aplican los conceptos de contenido manifiesto, pensamientos latentes, trabajo del sueño, cumplimiento de deseo y límite de la interpretación. Por eso es especialmente valioso para articular teoría y clínica en torno a las formaciones del inconsciente.
