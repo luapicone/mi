@@ -387,3 +387,53 @@ Freud reconoce que no interpretó a tiempo ciertos movimientos transferenciales 
 El epílogo también confirma la relación entre síntoma y fantasía. Freud advierte que en la histeria las escenas fantaseadas cumplen una función decisiva y que el síntoma debe ser leído en relación con ellas. La verdad del síntoma no se agota en el hecho recordado; incluye la realidad psíquica de la fantasía.
 
 En síntesis, este texto es esencial porque permite articular síntoma histérico, fantasía y transferencia. Además, muestra el lugar del analista dentro del proceso y la necesidad de atender a la transferencia como dimensión constitutiva del trabajo clínico.
+
+## Clase 8
+### Puntualizaciones sobre el amor de transferencia
+En *Puntualizaciones sobre el amor de transferencia*, Freud aborda una de las manifestaciones más complejas y decisivas de la transferencia: el enamoramiento del paciente por el analista. Lejos de considerarlo un accidente externo o un problema moral, Freud lo piensa como un fenómeno estructural del tratamiento. El amor de transferencia no es un sentimiento artificialmente provocado por el análisis, sino una reedición de prototipos afectivos infantiles que encuentran en la figura del analista una nueva ocasión para manifestarse.
+
+Freud subraya que este amor tiene una doble condición. Por un lado, puede convertirse en motor del tratamiento, porque concentra afectos e intensifica el vínculo analítico. Por otro, puede transformarse en un obstáculo, ya que el paciente puede utilizarlo para resistirse al análisis, detener la asociación libre o desplazar el trabajo interpretativo hacia una demanda amorosa dirigida al analista.
+
+La importancia del texto reside en que Freud enseña al analista a no responder ni desde el rechazo moral ni desde la satisfacción narcisista. El amor transferencial no debe ser actuado ni correspondido, pero tampoco negado o humillado. Debe ser interpretado como transferencia. Esto prepara la regla de abstinencia y la neutralidad técnica. El analista no debe satisfacer la demanda amorosa, sino convertirla en material de trabajo.
+
+Este texto es fundamental porque muestra con claridad que la transferencia no es solo repetición de afectos positivos o negativos, sino escena donde se reedita la relación con los objetos primarios. El amor de transferencia es, así, una forma privilegiada de repetición y un ejemplo evidente de que el tratamiento no se desarrolla fuera de las pasiones del sujeto, sino en su centro mismo.
+
+### Sobre la dinámica de la transferencia
+En este texto de 1912, Freud se concentra en explicar por qué surge la transferencia y cuál es su lógica. La transferencia no es presentada como un fenómeno accidental del tratamiento, sino como consecuencia de la forma en que el sujeto organiza su vida amorosa y sus series de representaciones. Cada persona tiene ciertos modelos de relación, ciertos prototipos de vínculo, que provienen de su historia infantil y de sus fijaciones libidinales. En la situación analítica, esos modelos se actualizan sobre la figura del analista.
+
+Freud destaca que la transferencia aparece especialmente allí donde el tratamiento toca un punto conflictivo. Es decir, no surge como simple acompañamiento afectivo, sino en estrecha relación con la resistencia. Cuando el análisis se aproxima a un contenido reprimido, el sujeto puede desplazar hacia el analista los afectos y fantasías ligados a sus objetos primarios. De esta manera, la transferencia se convierte al mismo tiempo en acceso privilegiado al conflicto y en forma de defensa frente a él.
+
+La conferencia o texto resulta esencial porque muestra esta ambivalencia: la transferencia es motor y obstáculo. Motor, porque sin ella no habría verdadero trabajo analítico. Obstáculo, porque puede impedir el recuerdo y sustituirlo por la repetición actuada en la relación con el analista. Por eso Freud la sitúa en el centro mismo de la técnica.
+
+En síntesis, este texto es decisivo para comprender la transferencia como fenómeno estructural, ligado a las fijaciones libidinales del sujeto, a la resistencia y a la reedición de sus prototipos afectivos infantiles.
+
+### Recordar, repetir y reelaborar
+En este texto de 1914, Freud reformula profundamente la técnica psicoanalítica. La expectativa de que el paciente simplemente recuerde el material reprimido se modifica cuando Freud observa que muchas veces el sujeto no recuerda, sino que repite. Lo que no puede ser traído a la conciencia bajo forma de recuerdo retorna en la acción, en el vínculo analítico, en el modo de relacionarse con el analista. Esta repetición se convierte así en una forma central de manifestación del inconsciente.
+
+Freud muestra que la transferencia es el escenario privilegiado de esta repetición. El paciente revive en la relación analítica posiciones, afectos, reproches, demandas y modos de defensa que pertenecen a su historia infantil. Por eso el tratamiento no puede orientarse únicamente a la rememoración; debe trabajar también con lo que se repite en acto.
+
+La reelaboración aparece entonces como una tarea esencial. No basta con interpretar una vez ni con revelar un contenido reprimido. El sujeto debe atravesar repetidamente ciertos materiales, trabajar sus resistencias y elaborar psíquicamente aquello que insiste. Esta dimensión temporal es muy importante: el análisis no produce una comprensión instantánea, sino un trabajo sostenido de elaboración.
+
+Este texto también es decisivo para pensar el nuevo sentido de los síntomas. El síntoma ya no se entiende solo como vestigio de un conflicto pasado, sino como formación que encuentra nuevo sentido dentro de la transferencia. En el tratamiento, el síntoma se enlaza a la repetición y a la relación con el analista, lo que amplía enormemente la comprensión clínica.
+
+En síntesis, *Recordar, repetir y reelaborar* es un texto central porque redefine la técnica analítica a partir de la transferencia y de la repetición. Muestra que el inconsciente no solo se recuerda, sino que se actúa, y que el análisis debe orientarse a la reelaboración de esa repetición.
+
+### Consejos al médico
+En *Consejos al médico*, Freud formula principios técnicos fundamentales para el trabajo analítico. Uno de los más conocidos es el de la atención parejamente flotante. Frente a la regla fundamental del paciente, que consiste en decir todo lo que se le ocurra sin censura, el analista debe responder con una actitud correlativa: no privilegiar de antemano ningún elemento, no seleccionar según expectativas previas y mantener una escucha abierta a lo que emerge.
+
+Esta indicación técnica es crucial porque el analista no debe imponer su propia lógica consciente sobre el material del paciente. La atención flotante permite que se escuchen conexiones inesperadas y que el inconsciente del analista funcione como instrumento de recepción. Al mismo tiempo, Freud advierte contra el furor interpretativo y contra el deseo de obtener resultados rápidos. El analista debe sostener una posición de escucha, paciencia y respeto por el ritmo del trabajo psíquico.
+
+El texto también prepara la noción de neutralidad. El analista no debe orientar el tratamiento según sus ideales, preferencias morales o deseos personales. Su tarea consiste en favorecer la emergencia del material inconsciente y en trabajar técnicamente con la transferencia y la resistencia.
+
+En síntesis, este texto es esencial porque establece una ética y una técnica de la escucha analítica: atención flotante, no selección anticipada del material y renuncia a imponer un sentido desde el yo del analista.
+
+### Sobre la iniciación del tratamiento
+En este texto de 1913, Freud aborda las condiciones iniciales del tratamiento y varios principios técnicos decisivos. Entre ellos se destacan la regla fundamental, la neutralidad y la abstinencia. La regla fundamental exige al paciente decir todo lo que se le ocurra, incluso aquello que le parezca irrelevante, vergonzoso o absurdo. Esto no es un simple consejo metodológico, sino la condición misma para que el inconsciente pueda manifestarse.
+
+Freud explica también que el tratamiento necesita cierta instalación del dispositivo: frecuencia, encuadre, posición del analista, definición del trabajo y manejo de las resistencias iniciales. Estas precisiones son importantes porque muestran que el análisis no es conversación libre, sino práctica técnicamente regulada.
+
+La regla de abstinencia aparece aquí como principio decisivo. El analista no debe colmar las demandas del paciente ni ofrecer satisfacciones sustitutivas que interrumpan el trabajo del deseo. La frustración relativa que introduce la abstinencia no tiene sentido moral, sino técnico: permite que la falta siga operando y que el deseo y la transferencia puedan desplegarse. La neutralidad se articula con esto, en tanto el analista no debe colocarse como objeto de satisfacción directa.
+
+Freud también advierte sobre el inicio del tratamiento como momento especialmente sensible para la aparición de resistencias y expectativas. Por eso insiste en la claridad del encuadre y en la necesidad de sostener la posición analítica desde el comienzo.
+
+En síntesis, este texto es fundamental porque define las condiciones iniciales del análisis y articula regla fundamental, abstinencia y neutralidad como pilares técnicos del manejo de la transferencia.
