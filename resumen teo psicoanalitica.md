@@ -231,3 +231,63 @@ Este tipo de sueño resulta útil para mostrar cómo se articulan condensación 
 Además, el sueño del teatro permite pensar el límite de la interpretación. Aun cuando el análisis logre esclarecer gran parte del material, siempre queda un resto. Este resto remite al ombligo del sueño, al punto en que las asociaciones se abren hacia una trama más amplia que no se deja cerrar completamente.
 
 En síntesis, este referente clínico muestra de forma concreta cómo se aplican los conceptos de contenido manifiesto, pensamientos latentes, trabajo del sueño, cumplimiento de deseo y límite de la interpretación. Por eso es especialmente valioso para articular teoría y clínica en torno a las formaciones del inconsciente.
+
+## Clase 5
+### La interpretación de los sueños, capítulo 7, punto c
+En el punto c del capítulo 7 de *La interpretación de los sueños*, Freud desarrolla una cuestión central para toda su teoría: la relación entre deseo inconsciente, vivencia de satisfacción y constitución del aparato psíquico. Este apartado es decisivo porque allí el deseo deja de aparecer como simple intención consciente y pasa a definirse en términos estructurales, ligado a la huella de una satisfacción originaria.
+
+Freud parte de la situación de desamparo inicial del ser humano. El niño pequeño depende del otro para la satisfacción de sus necesidades. Cuando una necesidad corporal encuentra respuesta en una intervención proveniente del exterior, se produce una vivencia de satisfacción. Esa vivencia deja una huella mnémica, es decir, una marca psíquica del objeto, de la acción y del estado de satisfacción alcanzado. A partir de allí, cuando reaparece la necesidad, el aparato tiende a reinvestir esa huella y a reproducir la situación de satisfacción.
+
+Este punto es clave porque permite entender que el deseo no se dirige directamente al objeto real tal como está presente, sino a la huella de una satisfacción perdida. El deseo se constituye, por lo tanto, en relación con una pérdida. El objeto originario de satisfacción no vuelve a encontrarse como tal. Lo que el aparato busca es reproducir, a través de la representación, aquella satisfacción primera. De este modo, la pérdida del objeto no es un accidente posterior, sino una condición misma del deseo.
+
+Freud muestra que, en un primer momento, el aparato tiende a resolver la tensión por la vía alucinatoria. Es decir, frente a la necesidad, vuelve a investir la imagen mnémica del objeto y produce una satisfacción alucinada. Pero esta solución fracasa, porque la alucinación no modifica la realidad exterior. De allí surge la necesidad de un funcionamiento psíquico más complejo, orientado por el principio de realidad, que permita distinguir entre representación y presencia efectiva del objeto.
+
+La importancia de este desarrollo es enorme. Permite comprender que el deseo inconsciente está estructurado por una marca de satisfacción que jamás vuelve a recuperarse de manera plena. El aparato queda, desde su origen, organizado alrededor de una búsqueda. El deseo no es simplemente carencia biológica, sino insistencia de una huella. En este sentido, Freud articula deseo, memoria, objeto perdido y constitución del aparato psíquico.
+
+También se puede ver aquí la relación entre proceso primario y proceso secundario. El proceso primario tiende a la satisfacción inmediata por la vía más corta, incluida la alucinación. El proceso secundario introduce demora, prueba de realidad y rodeo. Así, el deseo inconsciente conserva algo de esa tendencia originaria a la satisfacción alucinatoria, mientras el yo debe organizar otros caminos para lidiar con la realidad.
+
+En síntesis, este texto es fundamental porque permite entender que el deseo inconsciente surge a partir de la vivencia de satisfacción, pero queda marcado por la pérdida del objeto y por la imposibilidad de reproducir plenamente esa experiencia. Por eso el deseo insiste y el aparato psíquico se estructura alrededor de esa falta.
+
+### Goldenberg, El deseo en Freud
+El texto de Goldenberg resulta especialmente útil porque retoma y organiza las principales consecuencias del concepto freudiano de deseo. Su aporte consiste en mostrar que, en Freud, el deseo no debe confundirse con necesidad, voluntad consciente o simple intención. El deseo es una formación psíquica compleja, ligada a la marca de una satisfacción pasada y a la imposibilidad de recuperarla de manera plena.
+
+Goldenberg destaca que el deseo se constituye a partir de la vivencia de satisfacción descripta por Freud. Esto implica que el sujeto queda orientado por una experiencia primera que deja huella, pero cuyo objeto ya no puede recuperarse tal como fue. En consecuencia, el deseo se mueve en el campo de la representación, de la sustitución y de la búsqueda. Nunca alcanza el objeto de forma plena, porque lo que persigue es siempre algo ya perdido.
+
+Otro punto importante del texto es que subraya la diferencia entre necesidad, demanda y deseo. Aunque esta distinción será desarrollada con mayor fuerza en tradiciones posteriores, Goldenberg muestra que en Freud ya está presente la idea de que el deseo excede la satisfacción puramente biológica. Lo humano no queda reducido a la urgencia de la necesidad; se organiza también por el campo de la representación y del vínculo con el otro.
+
+Asimismo, el autor remarca que el deseo inconsciente se expresa de manera privilegiada en las formaciones del inconsciente: sueños, síntomas, actos fallidos, chistes. Estas formaciones muestran que el deseo no desaparece por represión, sino que insiste y retorna deformado. Por eso el concepto de deseo es inseparable del inconsciente y del conflicto psíquico.
+
+En síntesis, Goldenberg permite ordenar conceptualmente la noción de deseo en Freud y subraya su articulación con la pérdida del objeto, la huella mnémica de satisfacción y la insistencia del inconsciente. Su texto funciona muy bien como apoyo para comprender el pasaje freudiano desde la necesidad biológica al deseo como categoría estructural del sujeto.
+
+### Tres ensayos para una teoría sexual, capítulo 2: la sexualidad infantil
+En el capítulo dedicado a la sexualidad infantil, Freud introduce una de las tesis más revolucionarias del psicoanálisis: la sexualidad no comienza en la pubertad, sino que está presente desde la infancia. Esta afirmación rompe con los prejuicios médicos y morales de su época, que suponían a la infancia como etapa de inocencia asexual. Freud muestra que la sexualidad infantil existe, aunque no coincida con la sexualidad genital adulta.
+
+La sexualidad infantil se caracteriza por ser autoerótica, parcial y no centrada inicialmente en la reproducción. El niño obtiene placer a partir de zonas del cuerpo y funciones que luego se integrarán de otra manera en la organización adulta. Las pulsiones parciales se satisfacen de manera relativamente independiente y no están todavía unificadas bajo la primacía genital.
+
+Freud describe la importancia de las zonas erógenas, es decir, regiones del cuerpo especialmente aptas para producir excitación y placer. Entre ellas, la zona oral ocupa un lugar primordial en los comienzos. La satisfacción ligada a la alimentación muestra que una función vital puede adquirir valor sexual. Esto es fundamental porque demuestra que la sexualidad infantil no debe pensarse según el modelo adulto, sino como una organización específica del placer.
+
+Otro rasgo importante es el apuntalamiento. La sexualidad se apoya inicialmente en funciones de autoconservación, como la alimentación, pero luego se independiza parcialmente de ellas. Este punto permite entender cómo una actividad necesaria para la vida puede convertirse en fuente de placer sexual.
+
+Freud también insiste en la existencia de la disposición perversa polimorfa en la infancia. Esto no significa perversión en sentido moral, sino la capacidad infantil de obtener placer por múltiples vías y sin la organización normativa adulta. La infancia aparece así como un campo de experimentación pulsional amplio, no limitado por los fines genitales reproductivos.
+
+En síntesis, este capítulo es central porque funda la teoría de la sexualidad infantil, introduce las nociones de pulsión parcial, autoerotismo, zona erógena y apuntalamiento, y muestra que la sexualidad humana se organiza desde la infancia bajo formas muy distintas de la genitalidad adulta.
+
+### Conferencia 20: la vida sexual de los seres humanos
+En esta conferencia, Freud retoma y amplía las tesis de *Tres ensayos* para presentarlas de forma más accesible. Su objetivo es desmontar la idea vulgar de sexualidad, demasiado restringida al coito, a la genitalidad adulta y a la reproducción. Freud sostiene que la vida sexual humana es mucho más amplia y compleja. Incluye prácticas, fantasías, excitaciones parciales, satisfacciones preliminares y organizaciones libidinales diversas.
+
+La conferencia insiste en que la sexualidad infantil existe y que la sexualidad adulta no puede comprenderse sin su historia previa. También subraya que la sexualidad humana está marcada por desvíos, sustituciones y variaciones, lo cual demuestra que no responde a una norma biológica simple. La pulsión sexual se presenta como una fuerza que puede ligarse a distintos objetos y metas.
+
+Freud vuelve aquí sobre la diferencia entre instinto biológico y pulsión. La pulsión no está rígidamente programada; tiene una fuente, una meta, un empuje y un objeto, pero el objeto es especialmente contingente y variable. Esta característica es fundamental para entender la plasticidad de la sexualidad humana.
+
+En síntesis, esta conferencia amplía y aclara el concepto de vida sexual humana, mostrando que el campo sexual es mucho más amplio que el de la genitalidad reproductiva y que está atravesado por la historia infantil del sujeto.
+
+### Conferencia 21: desarrollo sexual y organizaciones libidinales
+En esta conferencia, Freud desarrolla la idea de que la sexualidad infantil no es caótica, sino que atraviesa diferentes organizaciones libidinales. Cada una privilegia determinadas zonas erógenas, metas pulsionales y modos de relación con el objeto. Esto permite pensar un desarrollo, aunque no en sentido lineal y armónico, sino como sucesión conflictiva de posiciones y reorganizaciones.
+
+Entre las organizaciones libidinales, Freud destaca especialmente la oral, la anal y la fálica. En la organización oral, el placer está ligado principalmente a la incorporación. En la anal, a la retención y expulsión. En la fálica, aparece la primacía del falo como referente simbólico de la diferencia sexual infantil, aunque todavía no hay una organización genital adulta completa.
+
+Estas organizaciones no desaparecen sin dejar rastros. Siguen influyendo en la vida psíquica posterior y pueden reaparecer en síntomas, rasgos de carácter, fijaciones o modalidades de satisfacción. Por eso el desarrollo sexual no debe pensarse como simple progreso superador, sino como historia de fijaciones y reorganizaciones.
+
+La conferencia también permite entender mejor la articulación entre pulsión, objeto y meta. La sexualidad infantil se organiza en torno a modos parciales de satisfacción que luego pueden subordinarse, combinarse o persistir. Esto es esencial para comprender tanto la sexualidad adulta como la formación de síntomas neuróticos.
+
+En síntesis, la conferencia 21 es clave porque ordena el concepto de desarrollo sexual en Freud y permite pensar las organizaciones libidinales como momentos estructurantes de la sexualidad infantil, con efectos duraderos sobre la subjetividad.
